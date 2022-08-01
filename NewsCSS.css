@@ -1,0 +1,55 @@
+hr {
+	color: black;
+	background-color: black;
+    height: 4px;
+}
+
+.link {
+	-webkit-tap-highlight-color: transparent;
+}
+
+.messenger {
+	-webkit-tap-highlight-color: transparent;
+}
+
+.link img {
+    max-width: 145px;
+    height: 55px;
+    margin-left: 5px;
+}
+
+.body {
+	background-color : #5a5a5a;
+}
+
+.messenger img {
+	width: 3%;
+	min-width: 45px;
+	margin-right: 10px;
+	margin-left: 10px;		
+}
+
+.Zagolovok {
+	margin: 0px;
+	-webkit-tap-highlight-color: transparent;
+	font-family: sans-serif;
+}
+
+.Zagolovok23 {
+    -webkit-tap-highlight-color: transparent;
+    margin-top: 4px;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+.Otstup {
+	margin: 0;
+}
+
+.data1 {
+	font-size: 17px;
+}
+
+.disclaimer {
+	visibility: hidden;
+}
